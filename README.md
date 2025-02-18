@@ -138,7 +138,7 @@ NestJS To-Do API is a simple backend for managing to-do lists related to social 
     ```bash 
     $ npm install
     ``` 
-3. Create a .env file and follow the .env.example file
+3. Create a .env file and follow the [.env.example]() file
 4. Run Prisma migrations:
     ```bash 
     $ npx prisma
